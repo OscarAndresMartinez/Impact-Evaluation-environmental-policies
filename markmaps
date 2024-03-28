@@ -1,0 +1,77 @@
+markmap
+
+--
+markmap:
+  colorFreezeLevel: 2
+---
+
+# COVARIATES
+
+## Biophysical  
+- Distance (n=166, 24%)
+- Slope (n=82, 12%)
+- Elevation (n=65, 9%) 
+- Precipitation (n=32, 5%)
+- Temperature (n=31, 4%)
+- Soil (n=18, 3%)
+- Raifall (n=17, 2%)
+- Forest (n=14, 2%)
+- Travel time (n=13, 2%)
+- Altitude (n=8, 1%)
+- Vegetation (n=8, 1%)
+- Agricultural (n=6, 1%)
+- Ecoregion (n=4, 1%)
+- Percentage forest (n=4, 1%)
+- Rivers (n=4, 1%)
+- Terrain (n=4, 1%)
+- Latitude (n=2, 1%)
+- Longitude (n=2, 1%)
+- Topographic position index (TPI) (n=2, 1%)
+- Human footprint index (HFI) (n=2, 1%)
+- Other covariates: percentage floodable area, access, agricultural area used, canopy height, capital distance,
+  farm size, farmland use area, forest percentage of Land use area, forest boundaries, forestland use area, light, 
+  locations of rivers, cities, national parks; mangrove area share, national and local roads, 
+  number of farmland use plots, number of forestland use plots, PA area, PA size, Peat depth,
+  percent of area in each ecoregion, populated areas, range of elevation, road density, roads,
+  roads and raiways, size, spatially weighted elevation, surface PA area, travel distance to the nearest arterial road,
+  travel distance to the nearest city, urban areas, village size, percentage core forest, 
+  percentage edge forest, percentage old growth forest, percentage pine forest, aesthetic, air, 
+  animal species, average water content in soil, biomass, biome, bioregion, cattle raising production,
+  cumulative plant area index (PAI) deforestation, density of rivers, disturbance density, dry forest,
+  environmental_covariables, fuelwood collection, grain production, grass biomass, lake size,
+  land, land use zone (geological information), landcover - Shrub Cover, landcover - Tree Cover,
+  long-term monthly rainfall during dry season, maximum cumulative water deficit (MCWD), mountain forest,
+  nitrogen deposition, nutrient levels, plant area volume density, probability of flooding,
+  proportional cover, rain, rain index, shaded relief, Shannon’s diversity index, tree cover,
+  water, wetness. (n=1, 0.1%, each covariate)
+
+
+## Socioeconomic 
+
+- Population (n=31, 5%)
+- Land use (n=16, 2%)
+- Education (n=9 ,1%)
+- Household (n=8 ,1%)
+- Gross domestic product (GDP) Per capita (n=7 ,1%)
+- Age (n=5 ,0.7%)
+- Gross domestic product (GDP) (n=5, 0.7%)
+- Gender (n=3, 0.4%)
+- Poverty (n=3, 0.4%)
+- Democracy (n=2, 0.3%)
+- Human development index (HDI) (n=2, 0.3%)
+- Total population (n=2, 0.3%)
+- Other covariates: percentage of premises, percentage of tourism premises, percentage of workers,
+  percentage of workers in tourism, administrative boundaries, adult equivalent, annual budget, 
+  average rural income, average urban income, electricity infrastructure, employed, extention contact,
+  governance gender, guerrilla attacks, human influence index, human Population density, human settlements,
+  illiteracy share, income, labor, labor quantity, literacy, management category, management scores,
+  mining pressure, municipal human development index (MHDI), number of years household head attended Education,
+  number of armed incidents, paved roads, per capita net income, percentage employed, physical condition of 
+  the household head, political identity of the head of the household, political stability, production level,
+  proportion of immigrants, protection status, road density, road density squared, roadless volume, roads
+  rule of law, rural density, rural population, sawmills, schools, surrounding human population
+  urban population, village population. (n=1, 0.1%, each covariate)
+
+
+
+
